@@ -1,3 +1,5 @@
+#Install the Galaxy Collections
+
 # galaxy.galaxy.collection
 
 ## Description
